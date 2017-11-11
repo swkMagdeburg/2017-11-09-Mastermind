@@ -1,0 +1,4 @@
+[submodule "RickSanchez_Kotlin"]
+	path = RickSanchez_Kotlin
+	url = https://github.com/gaerfield/MastermindKata
+	branch = master
